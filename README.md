@@ -1,2 +1,2 @@
 # Rheotaxis
-Mathematica file for the manuscript "Hydrodynamic model of fish orientation against a flow"
+Mathematica file for the manuscript "Hydrodynamic model of fish orientation in a channel flow"
